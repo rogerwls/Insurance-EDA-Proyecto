@@ -1,19 +1,24 @@
-# Proyecto: Análisis Exploratorio InsuranceCompany
+# Proyecto: Análisis Exploratorio de InsuranceCompany
 
-Este proyecto es una aplicación interactiva desarrollada con **Streamlit** para analizar el dataset de clientes de InsuranceCompany. El objetivo es identificar patrones de comportamiento, tasas de renovación y factores de riesgo.
+Esta aplicación ha sido desarrollada como un proyecto de análisis de datos para evaluar el comportamiento de los asegurados de la compañía "InsuranceCompany", utilizando técnicas de estadística descriptiva y visualización interactiva.
+
+## Descripción del Proyecto
+El objetivo principal es realizar un Análisis Exploratorio de Datos (EDA) para identificar patrones de renovación de pólizas, factores de riesgo y segmentación de clientes, proporcionando una base sólida para la toma de decisiones estratégicas sin recurrir a modelos de predicción.
 
 ## Tecnologías Utilizadas
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Streamlit** (para la interfaz web)
+- **Python:** Lenguaje base para el procesamiento de datos.
+- **Pandas/NumPy:** Manipulación y cálculo estadístico.
+- **Matplotlib/Seaborn:** Visualización gráfica avanzada.
+- **Streamlit:** Framework para la creación de la interfaz web interactiva.
 
 ## Instrucciones de Ejecución
-1. Clona este repositorio: `git clone <tu-link-de-github>`
-2. Instala las librerías: `pip install -r requirements.txt`
-3. Ejecuta la app: `streamlit run app.py`
+1. **Clonar el repositorio:**
+   `git clone https://github.com/rogerwls/Insurance-EDA-Proyecto.git`
+2. **Instalar dependencias:**
+   `pip install -r requirements.txt`
+3. **Ejecutar la aplicación:**
+   `streamlit run app.py`
 
-## Capturas de la App
-*(Aquí debes subir imágenes de tu app. Toma capturas de pantalla de la app, guárdalas en la carpeta del proyecto, súbelas a GitHub y agrega el link aquí)*
-![EDA](captura_eda.png)
-
-## Links
-- **App Desplegada:** [Pon aquí el link de Streamlit Cloud]
+## Links Relevantes
+- **Repositorio GitHub:** [https://github.com/rogerwls/Insurance-EDA-Proyecto](https://github.com/rogerwls/Insurance-EDA-Proyecto)
+- **App Desplegada:** [https://insurance-eda-proyecto-bcgikjgljivutyrxht7rs6.streamlit.app](https://insurance-eda-proyecto-bcgikjgljivutyrxht7rs6.streamlit.app)
